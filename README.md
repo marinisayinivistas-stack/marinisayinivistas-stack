@@ -1,4 +1,4 @@
-**<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=280&section=header&text=MARI%20NISAYINI%20S&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20MCA%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20python%FUll stack developer&descAlignY=55&descSize=19&fontAlign=50&stroke=000" />
+**<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=280&section=header&text=MARI%20NISAYINI%20S&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20MCA%20%7C%20Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20java%FUll stack developer&descAlignY=55&descSize=19&fontAlign=50&stroke=000" />
 
 <div align="center">
   
